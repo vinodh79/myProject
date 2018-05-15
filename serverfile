@@ -1,2 +1,3 @@
 server update
 create update on server for conflict
+create update on local for conflict
